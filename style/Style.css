@@ -241,7 +241,7 @@ footer {
 
 .Small-nav > .Nav-links {
   display: flex;
-  width: 100%;
+  width: 90%;
   justify-content: flex-end;
   padding: 38px;
 }
